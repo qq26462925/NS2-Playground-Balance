@@ -89,11 +89,11 @@ kGrenadeLauncherDropCost = 12
 kGrenadeLauncherDropCooldown = 0
 
 kGrenadeLauncherGrenadeDamageType = kDamageType.GrenadeLauncher
-kGrenadeLauncherGrenadeDamage = 100
+kGrenadeLauncherGrenadeDamage = 85
 kGrenadeLauncherGrenadeDamageRadius = 4.8
 kGrenadeLauncherDetectionShotRadius = 3
 
-kGrenadeLauncherImpactGrenadeDamage = 80
+kGrenadeLauncherImpactGrenadeDamage = 70
 kGrenadeLauncherAllyBlastReduction = 0.3
 
 kGrenadeLauncherClipSize = 4
@@ -229,7 +229,7 @@ kBileBombResearchTime = 40
 kSpikeSpread = Math.Radians(3.8)
 
 -- Prowler
-kProwlerCost = 16 --14
+kProwlerCost = 13 --16
 
 kProwlerBaseCarapaceUpgradeAmount = 10.5
 kProwlerCarapaceArmorPerBiomass = 1.5
